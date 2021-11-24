@@ -1,2 +1,5 @@
 # PoU-Calc-Chinese-Localization
 不确定度计算器 汉化
+完全本地版
+Simplified Chinese version of nicoco007's Propagation-of-Uncertainty-Calculator
+Just clone this repo to your machine and you're good to go.
